@@ -1,11 +1,3 @@
-//
-//  WXSocialLI.swift
-//  WXSocial_Example
-//
-//  Created by Woxapp on 28.03.2018.
-//  Copyright © 2018 CocoaPods. All rights reserved.
-//
-
 import UIKit
 import LinkedinSwift
 

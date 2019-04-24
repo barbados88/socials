@@ -1,11 +1,3 @@
-//
-//  WXSocialFB.swift
-//  WXSocial_Example
-//
-//  Created by Woxapp on 27.11.17.
-//  Copyright © 2017 CocoaPods. All rights reserved.
-//
-
 import UIKit
 import FBSDKCoreKit
 import FBSDKLoginKit
